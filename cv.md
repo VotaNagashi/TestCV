@@ -2,7 +2,7 @@
 <html>
 
 <body>
-#Henadz Amon#
+#Henadz Amon
 ##+375298627963##
 0 exp((
 Only basic eng.
